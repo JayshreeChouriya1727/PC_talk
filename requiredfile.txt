@@ -1,0 +1,3 @@
+{% comment %} install pyttsx3 {% endcomment %}
+{% comment %} install speechRecognition {% endcomment %}
+{% comment %} install wikipedia {% endcomment %}
